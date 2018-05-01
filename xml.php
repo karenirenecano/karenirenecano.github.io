@@ -231,7 +231,6 @@ mengetahui nomor telepon contact person)</description>
   </author>
  </entry>
  <entry>
-  <entry>
    <vehicle_id>SU092CAAAD00CINTCARID</vehicle_id>
    <title>2003 Suzuki Carry</title>
    <summary>dijual suzuki carry tahun 2003 kondisi siap pakai (Klik 'Tampilkan’ untuk&#13;
