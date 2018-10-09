@@ -6375,7 +6375,7 @@ Updating results </span>
 </div>
 </div>
 <span style="display: inline-block;margin-left: 10px;vertical-align: middle;">
-<strong><span class="rating" itemprop="ratingValue">3.8</span> stars</strong>
+<strong><span class="rating" itemprop="ratingValue">3.8 stars</span> stars</strong>
 </span>
 </td>
 <td>
